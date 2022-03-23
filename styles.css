@@ -8,8 +8,6 @@
 }
 
 .headerImg {
-    height: auto;
-    width: 750px;
-    margin-left: auto;
-    margin-right: auto;
+    display: flex;
+    justify-content: center;
 }
